@@ -1,4 +1,4 @@
-package com.bierzynski;
+package com.biezynski;
 
 public class Opel implements ICar {
 

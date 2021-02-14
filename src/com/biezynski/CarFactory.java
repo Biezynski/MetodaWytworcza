@@ -1,4 +1,4 @@
-package com.bierzynski;
+package com.biezynski;
 
 import java.util.HashMap;
 import java.util.Map;
